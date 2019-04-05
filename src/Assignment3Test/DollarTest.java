@@ -1,9 +1,7 @@
 package Assignment3Test;
 
 
-import static org.junit.Assert.assertEquals;
-
-import org.junit.Assert;
+import static org.junit.Assert.*;
 //import org.bson.Document;
 import org.junit.Test;
 
