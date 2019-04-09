@@ -1,4 +1,4 @@
-package Assignment3;
+package com.jy.code;
 
 public class Dollar{
 	private int amount;
